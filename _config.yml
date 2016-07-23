@@ -6,9 +6,9 @@ color:
   saturation: 0.14056551619432867
   rhythmicContrast: 0.5004388587549329
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: R415E
